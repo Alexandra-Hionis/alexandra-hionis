@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23A8FDF5&size=25&lines=Hi%2C+I'm+Alexandra)](https://git.io/typing-svg) <img src="https://media.giphy.com/media/lSJyfxxuewjTBJZW3L/giphy.gif" width="80px" height="100px"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=%23FD982A&size=45&center=true&vCenter=true&lines=Hi%2C+I'm+Alexandra)](https://git.io/typing-svg)<img src="https://media.giphy.com/media/lSJyfxxuewjTBJZW3L/giphy.gif" width="80px" height="100px"/>
 ### I'm a Freelance Front-End Web Developer 🤘
 
 - 🚀 I am currently working on various freelance projects
