@@ -10,15 +10,15 @@
 
 ### Skill set
 
-<img src="images/html5.pdf" width="60px"/>
-<img src="images/css3.pdf" width="60px"/>
-<img src="images/javascript.pdf" width="60px"/>
-<img src="images/react.pdf" width="60px"/>
-<img src="images/nodedotjs.pdf" width="60px"/>
-<img src="images/bootstrap.pdf" width="60px"/>
-<img src="images/tailwindcss.pdf" width="60px"/>
-<img src="images/heroku.pdf" width="60px"/>
-<img src="images/canva.pdf" width="60px"/>
-<img src="images/macos.pdf" width="60px"/>
+<img src="images/html.png" width="60px"/>
+<img src="images/css.png" width="60px"/>
+<img src="images/js.png" width="60px"/>
+<img src="images/react.png" width="60px"/>
+<img src="images/node.png" width="60px"/>
+<img src="images/bootstrap.png" width="60px"/>
+<img src="images/tailwind.png" width="60px"/>
+<img src="images/heroku.png" width="60px"/>
+<img src="images/canva.png" width="60px"/>
+<img src="images/macos.png" width="60px"/>
 
 <img src="https://media.giphy.com/media/lSJyfxxuewjTBJZW3L/giphy.gif" width="80px" height="100px"/>
