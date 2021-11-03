@@ -5,7 +5,7 @@
 - 🚀 I am currently working on various freelance projects
 - ⚡️ Check out my portfolio: https://alexandrahionis.com/
 - 📫 How to reach me: alexandra.hionis@gmail.com
-- 🏳️‍🌈 My pronouns are she/her
+- 🏳️‍🌈 My pronouns are she/her and I'm part of the LGBTQA+ community
 - 🌀 My nickname is Alex
 
 ![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexandra-hionis&theme=radical)
