@@ -3,7 +3,7 @@
 ### I'm a Freelance Front-End Web Developer 🤘
 
 - 🦄 I work as a Web Developer for [Sunflower Group](https://sunflowergroup.com/) under [Advantage Solutions Sales & Marketing ](https://advantagesolutions.net/)
-- 🚀 I am currently working on various freelance projects
+- 🚀 I work on freelance projects here and there
 - ⚡️ Check out my portfolio: https://alexandrahionis.com/
 - 📫 How to reach me: alexandra.hionis@gmail.com
 - 🏳️‍🌈 My pronouns are she/her and I'm part of the LGBTQA+ community
