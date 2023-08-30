@@ -4,10 +4,10 @@
 
 - 🦄 I work as a Junior Web Developer focusing on Front-End work for [Sunflower Group](https://sunflowergroup.com/) under [Advantage Solutions Sales & Marketing ](https://advantagesolutions.net/)
 - 🚀 Do occassional freelance work on Upwork
-- ⚡️ Check out my portfolio: https://alexandrahionis.com/
+- ⚡️ Check out my portfolio: https://alexandra-hionis-portfolio.herokuapp.com/
 - 📫 How to reach me: alexandra.hionis@gmail.com
 - 🏳️‍🌈 My pronouns are she/her and I'm part of the LGBTQA+ community
 - 🌀 My nickname is Alex
 
-![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexandra-hionis&theme=radical)
+
 
