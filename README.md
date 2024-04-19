@@ -6,8 +6,6 @@
 - 🚀 Do occassional freelance work on Upwork
 - ⚡️ Check out my portfolio: https://alexandra-hionis-portfolio.herokuapp.com/
 - 📫 How to reach me: alexandra.hionis@gmail.com
-<!-- - 🏳️‍🌈 My pronouns are she/her and I'm part of the LGBTQA+ community
-- 🌀 My nickname is Alex -->
 - 💻 HTML, SCSS, JS + more
 - 🤝 [LinkedIn ](https://www.linkedin.com/in/alexandra-hionis/)
 
