@@ -8,4 +8,4 @@
 - 📫 How to reach me: alexandra.hionis@gmail.com
 - 💻 [LinkedIn ](https://www.linkedin.com/in/alexandra-hionis/)
 
-  ![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexandra-hionis&theme=radical)
+  <!-- ![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexandra-hionis&theme=radical) -->
