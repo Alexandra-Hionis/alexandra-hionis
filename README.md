@@ -2,7 +2,7 @@
 
 ### I'm a Front-End Web Developer 🤘
 
-- 🦄 I work as a Junior Web Developer focusing on Front-End work for [Sunflower Group](https://sunflowergroup.com/) under [Advantage Solutions Sales & Marketing ](https://advantagesolutions.net/)
+- 🦄 I work as a Junior Front-End Web Developer 
 - 🚀 Do occassional freelance work on [Upwork ](https://www.upwork.com/freelancers/~01f4c77eb5abe7904e)
 - ⚡️ Check out my portfolio: https://alexandra-hionis-portfolio.herokuapp.com/
 - 📫 How to reach me: alexandra.hionis@gmail.com
